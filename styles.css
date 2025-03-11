@@ -54,19 +54,6 @@ header nav ul li a:hover {
     color: #3498db;
 }
 
-/* Image Section */
-.image-section {
-    text-align: center;
-    margin: 50px 0;
-}
-
-.main-image {
-    width: 100%;
-    max-width: 800px;
-    height: auto;
-    border-radius: 8px;
-}
-
 /* Main Content Section */
 .main-content {
     padding: 50px 0;
@@ -84,6 +71,19 @@ header nav ul li a:hover {
     line-height: 1.6;
     max-width: 800px;
     margin: 0 auto 20px;
+}
+
+/* Image Section */
+.image-section {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.main-image {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 8px;
 }
 
 /* Footer Section */
